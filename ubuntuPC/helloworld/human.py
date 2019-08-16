@@ -12,6 +12,6 @@ class Human:
         print(f'私は{self.name}といいます。年齢は{self.age}歳です。')
 
 
-h = Human('kajie', 16)
+h = Human('bunbunjin', 16)
 h.greet()
 
